@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "Sanjeev Kapoor",
+    "image": "https://i.ibb.co/KmNhkQt/sanjeev.png",
+    "yearsOfExperience": 38,
+    "numberOfRecipes": 17000,
+    "likes": 20000,
+    "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the author of numerous cookbooks and the host of popular cooking shows such as Khana Khazana and MasterChef India.",
+    "recipes": [
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": "Chicken, Tomatoes, Cream, Butter, Spices",
+        "cookingMethod": "Marinate chicken in a mixture of yogurt and spices, then grill or bake until cooked through. In a separate pan, sauté onions, garlic, and tomatoes until soft, then add cream and butter to make a rich sauce. Add the cooked chicken to the sauce and serve with rice or naan bread.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Paneer Tikka",
+        "ingredients": "Paneer, Bell Peppers, Onions, Spices, Lemon Juice",
+        "cookingMethod": "Cut paneer, bell peppers, and onions into bite-sized pieces, then marinate in a mixture of spices and lemon juice. Thread onto skewers and grill or bake until cooked through. Serve hot with chutney or yogurt sauce.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Chicken Korma",
+        "ingredients": "Chicken, Yogurt, Onions, Spices, Cashews",
+        "cookingMethod": "Marinate chicken in a mixture of yogurt and spices, then grill or bake until cooked through. In a separate pan, sauté onions and cashews until golden brown, then add the cooked chicken and more spices to make a fragrant korma sauce. Serve hot with rice or naan bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vikas Khanna",
+    "image": "https://i.ibb.co/1sPB5xS/vikas.jpg",
+    "yearsOfExperience": 27,
+    "numberOfRecipes": 10000,
+    "likes": 15000,
+    "bio": "Vikas Khanna is an Indian Michelin star chef, restaurateur, cookbook writer, filmmaker, humanitarian and judge of MasterChef India. He is the founder of the NGO, Hunger Heroes.",
+    "recipes": [
+      {
+        "recipeName": "Chana Masala",
+        "ingredients": "Chickpeas, Onions, Tomatoes, Ginger paste, Garlic paste",
+        "cookingMethod": "Saute onions until translucent. Add ginger paste, garlic paste, and chopped tomatoes. Cook until tomatoes are soft. Add chickpeas, water, salt, and spices. Cook on medium heat for 10-15 minutes. Serve hot with rice or roti.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Tandoori Chicken",
+        "ingredients": "Chicken, Yogurt, Red chili powder, Cumin powder, Coriander powder",
+        "cookingMethod": "Mix yogurt, red chili powder, cumin powder, coriander powder, salt, and oil. Coat chicken with marinade and let it rest for at least an hour. Preheat oven to 400°F (200°C). Bake chicken for 25-30 minutes. Garnish with coriander leaves and lemon wedges. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "ingredients": "Spinach, Paneer, Onions, Tomatoes, Ginger paste",
+        "cookingMethod": "Blanch spinach leaves, blend into a smooth paste. Shallow fry paneer cubes. Saute onions, add ginger paste, chopped tomatoes, and spinach paste. Add paneer cubes, salt, garam masala powder, and water. Simmer for 5-7 minutes. Serve hot with rice or roti.",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tarla Dalal",
+    "image": "https://i.ibb.co/8szjcp1/tarla.jpg",
+    "yearsOfExperience": 43,
+    "numberOfRecipes": 10000,
+    "likes": 12000,
+    "bio": "Tarla Dalal was an Indian cookbook author, chef, and host of cooking shows. She authored over 100 cookbooks and is best known for popularizing vegetarian cooking in India and abroad.",
+    "recipes": [
+      {
+        "recipeName": "Aloo Gobi",
+        "ingredients": "Potatoes, Cauliflower, Onions, Tomatoes, Cumin seeds",
+        "cookingMethod": "Heat oil in a pan, add cumin seeds, and saute onions until golden brown. Add chopped tomatoes and cook until soft. Add diced potatoes, cauliflower florets, salt, turmeric powder, and coriander powder. Cover and cook on low heat for 20-25 minutes. Serve hot with chapati or paratha.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Matar Paneer",
+        "ingredients": "Peas, Paneer, Onions, Tomatoes, Garam masala powder",
+        "cookingMethod": "Heat oil in a pan, add chopped onions, and saute until golden brown. Add chopped tomatoes and cook until soft. Add green peas, cubed paneer, salt, garam masala powder, and water. Simmer for 5-7 minutes. Serve hot with rice or roti.",
+        "rating": 4.1
+      },
+      {
+        "recipeName": "Vegetable Pulao",
+        "ingredients": "Basmati Rice, Mixed vegetables, Onions, Cumin seeds, Bay leaves",
+        "cookingMethod": "Soak rice for 30 minutes. Heat oil in a pressure cooker, add cumin seeds and bay leaves. Add chopped onions and saute until golden brown. Add mixed vegetables and saute for 3-4 minutes. Add drained rice, salt, and water. Pressure cook for 2 whistles. Serve hot with raita.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ranveer Brar",
+    "image": "https://i.ibb.co/WGBgNqZ/ranveer.jpg",
+    "yearsOfExperience": 22,
+    "numberOfRecipes": 2000,
+    "likes": 8000,
+    "bio": "Ranveer Brar is an Indian celebrity chef, TV show host, judge, and food stylist. He has hosted numerous cooking shows on various channels and has authored several cookbooks. He is also the founder of the online food platform, Ranveer Brar App.",
+    "recipes": [
+      {
+        "recipeName": "Jeera Aloo",
+        "ingredients": "Potatoes, Cumin seeds, Green chilies, Coriander leaves, Lemon juice",
+        "cookingMethod": "Boil potatoes until tender. Peel and dice into cubes. Heat oil in a pan, add cumin seeds, and saute until fragrant. Add diced potatoes, chopped green chilies, salt, and turmeric powder. Saute for 2-3 minutes. Garnish with chopped coriander leaves and lemon juice. Serve hot with chapati or paratha.",
+        "rating": 4.4
+      },
+      {
+        "recipeName": "Egg Bhurji",
+        "ingredients": "Eggs, Onions, Tomatoes, Green chilies, Coriander leaves",
+        "cookingMethod": "Heat oil in a pan, add chopped onions, and saute until golden brown. Add chopped tomatoes and cook until soft. Beat eggs in a bowl, add salt and whisk until fluffy. Add the eggs to the pan, and stir continuously until cooked. Garnish with chopped green chilies and coriander leaves. Serve hot with bread or pav.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Paneer Bhurji",
+        "ingredients": "Paneer, Onions, Tomatoes, Green chilies, Coriander leaves",
+        "cookingMethod": "Heat oil in a pan, add chopped onions, and saute until golden brown. Add chopped tomatoes and cook until soft. Crumble paneer and add to the pan, along with salt, turmeric powder, and red chili powder. Saute for 2-3 minutes. Garnish with chopped green chilies and coriander leaves. Serve hot with bread or pav.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Saransh Goila",
+    "image": "https://i.ibb.co/26jhznB/saransh.jpg",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 500,
+    "likes": 5000,
+    "bio": "Saransh Goila is an Indian chef, restaurateur, and author. He is the founder of Goila Butter Chicken, a popular restaurant chain in Mumbai. He has also authored the cookbook 'India On My Platter'.",
+    "recipes": [
+      {
+        "recipeName": "Egg Fried Rice",
+        "ingredients": "Eggs, Cooked Rice, Onion, Soy Sauce, Oil",
+        "cookingMethod": "Heat oil in a wok, add diced onion and saute until translucent. Add beaten eggs, and scramble until cooked. Add cooked rice, soy sauce, and salt. Stir well and cook for 2-3 minutes. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Tandoori Chicken",
+        "ingredients": "Chicken, Yogurt, Ginger Garlic Paste, Red Chili Powder, Garam Masala Powder",
+        "cookingMethod": "Make cuts on chicken pieces. Mix yogurt, ginger garlic paste, red chili powder, garam masala powder, and salt. Marinate the chicken in the mixture for 2-3 hours. Preheat oven to 200C, and cook the chicken for 20-25 minutes, turning once in between. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Jeera Aloo",
+        "ingredients": "Potatoes, Cumin seeds, Green chilies, Coriander leaves, Lemon juice",
+        "cookingMethod": "Boil potatoes until tender. Peel and dice into cubes. Heat oil in a pan, add cumin seeds, and saute until fragrant. Add diced potatoes, chopped green chilies, salt, and turmeric powder. Saute for 2-3 minutes. Garnish with chopped coriander leaves and lemon juice. Serve hot with chapati or paratha.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Madhur Jaffrey",
+    "image": "https://i.ibb.co/j5MWjR9/madhur.jpg",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 800,
+    "likes": 10000,
+    "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has authored numerous cookbooks, and is known for popularizing Indian cuisine in the Western world.",
+    "recipes": [
+      {
+        "recipeName": "Chana Masala",
+        "ingredients": "Chickpeas, Onion, Tomato, Cumin seeds, Coriander powder",
+        "cookingMethod": "Boil chickpeas until tender. Heat oil in a pan, add cumin seeds, and saute until fragrant. Add diced onion and saute until translucent. Add diced tomato and cook until the oil separates. Add coriander powder and salt. Add boiled chickpeas and cook for 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Aloo Gobi",
+        "ingredients": "Potatoes, Cauliflower, Cumin seeds, Turmeric powder, Red chili powder",
+        "cookingMethod": "Heat oil in a pan, add cumin seeds, and saute until fragrant. Add diced potatoes and cauliflower florets. Add turmeric powder, red chili powder, and salt. Stir well and cook covered until tender, stirring occasionally. Serve hot with rice or bread.",
+        "rating": 4.4
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "ingredients": "Spinach, Cottage Cheese, Onion, Tomato, Cumin seeds",
+        "cookingMethod": "Boil spinach until tender. Drain and puree in a blender. Heat oil in a pan, add cumin seeds, and saute until fragrant. Add diced onion and saute until translucent. Add diced tomato and cook until the oil separates. Add the spinach puree, salt, and cubed cottage cheese. Cook for 2-3 minutes. Serve hot with rice or bread.",
+        "rating": 4.6
+      }
+    ]
+  }
+]

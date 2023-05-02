@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Sanjeev Kapoor",
-    "image": "https://i.ibb.co/KmNhkQt/sanjeev.png",
+    "image": "https://i.ibb.co/XLS3jWN/sanjeev.png",
     "yearsOfExperience": 38,
     "numberOfRecipes": 17000,
     "likes": 20000,
@@ -31,7 +31,7 @@
   {
     "id": 2,
     "name": "Vikas Khanna",
-    "image": "https://i.ibb.co/1sPB5xS/vikas.jpg",
+    "image": "https://i.ibb.co/vxwkDf0/vikas.jpg",
     "yearsOfExperience": 27,
     "numberOfRecipes": 10000,
     "likes": 15000,
@@ -89,7 +89,7 @@
   {
     "id": 4,
     "name": "Ranveer Brar",
-    "image": "https://i.ibb.co/WGBgNqZ/ranveer.jpg",
+    "image": "https://i.ibb.co/kyZ5twf/ranveer.jpg",
     "yearsOfExperience": 22,
     "numberOfRecipes": 2000,
     "likes": 8000,
@@ -118,7 +118,7 @@
   {
     "id": 5,
     "name": "Saransh Goila",
-    "image": "https://i.ibb.co/26jhznB/saransh.jpg",
+    "image": "https://i.ibb.co/KwXVXQY/saransh.jpg",
     "yearsOfExperience": 12,
     "numberOfRecipes": 500,
     "likes": 5000,
